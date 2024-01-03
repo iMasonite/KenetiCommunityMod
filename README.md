@@ -15,6 +15,7 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
 - **Czech Hedgehog & Razor Wire** (craft in smithy)
 - **Oviraptor Incubation:** (tamed oviraptor radial menu)
 - **Achantia Buff:** Achantia to hold more paste and polymer and is 5x faster at production.
+- **KC Dedicated Storage:** Can store spoiling items.
 - **Tritanium Tek**
 - - **Tritanium Tek Console:** Crafts other Tritanium Tek and bulk Ammo
 - - **Tritanium Tek Vault:** Stores large amounts of items (with extended spoiling times)
