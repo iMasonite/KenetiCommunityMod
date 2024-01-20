@@ -16,14 +16,15 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
 ### Custom Structures:
 - **Czech Hedgehog & Razor Wire** Base defence structure.
 - **Tritanium Tek**
-  - **Tritanium Tek Console:** Crafts other Tritanium Tek and bulk Ammo.
-  - **Tritanium Tek Vault:** Stores large amounts of items (with extended spoiling times)
-  - **Tritanium Tek Emitter:** Various quality of life features.
+  - **Tek Console:** Crafts other Tritanium Tek and bulk Ammo.
+  - **Tek Vault:** Stores large amounts of items (with extended spoiling times)
+  - **Tek Emitter:** Various quality of life features.
     - **Nanny Mode:** Feeds and imprints Baby Creatures.
     - **Healing Mode:** Heals creatures inside its range.
     - **Baby Collection Mode:** Collects gestated babies and places them in a small radius around the Emitter.
-  - **Tritanium Tek Mutator:** (New) Allows players to force mutations while breeding.
-  - **Tritanium Tek Grinder:** (New) More efficient that the regular grinder and allows crafting more items.
+  - **Tek Mutator:** (New) Allows players to force mutations while breeding.
+  - **Tek Grinder:** (New) More efficient that the regular grinder and allows crafting more items.
+  - **Tek Item Sorter:** (New) Sorts items placed in its inventory to local dedicated storages.
 
 ### Custom Creatures:
 - **Alpha Unicorn:** Spawns at a rate of 5% to Equuis in spawns that you would find Equuis.
