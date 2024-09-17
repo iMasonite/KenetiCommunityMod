@@ -37,8 +37,10 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
   - **Unicorn Poop:** (Alpha Unicorn passively drops these) Super fertiliser. 
 
 ### Custom Creature Buffs:
-- **Oviraptor Incubation:** (tamed oviraptor radial menu)
+- **Oviraptor Incubation:** Egg Incubation (tamed oviraptor radial menu) and Range View features
 - **Achantia Buff:** Achantia holds more paste and polymer and is 5x faster at production.
+- **Ankylosaurus Buff:** When picked up, Auto Swings tail and harvests nearby materials.
+- **Dung Beetle Buff:** Larger Range and Range View features.
 
 ### Custom Consumables:
 - **Aphrodisiac:** *(Player Inventory)* Allows breeding creatures faster.
@@ -48,6 +50,9 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
 - **Creature Mindwipe:** *(Alpha Unicorn obtained)* Reset points added to a tamed creature.
 - **Dino Fire Resistance:** *(Cooking Pot)* Grants 5 minutes of immunity to fire and can be stacked up to a maximum of 6 at a time.
 - **Crafting Roids** *(Portable Catalyzer)* Temporarily max out your crafting skill according to your level.
+
+### Other Features:
+Artifacts can be crafted in the **Tek Console**.
 
 ## This mod port is an ongoing effort.
 Some items or features may not make it it into the final mod, but efforts will be made to bring over the good stuff that people loved so much. I'm also still learning all the new bells and whistles that have been given to mod developers in the new UE5 version of the Ark Development Kit. Stay Tuned.
