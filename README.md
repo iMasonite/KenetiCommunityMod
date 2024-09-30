@@ -15,9 +15,10 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
 - **KC Tek Forcefield:** Can use Tek Generator, also uses less element.
 
 ### Custom Structures:
-- **Czech Hedgehog & Razor Wire** Base defence structure.
-- **Charge Station:** (New) Charges Charge batteries from Charge Pets
-- **Farming Manager** (New) Works much like (but not like) an S+ Aggregator.
+- **QOL & Generic Structures**
+  - **Czech Hedgehog & Razor Wire** Base defence structure.
+  - **Charge Station:** (New) Charges Charge batteries from Charge Pets
+  - **Farming Manager** (New) Works much like (but not like) an S+ Aggregator.
 
 - **Tritanium Tek**
   - **Tek Console:** Crafts other Tritanium Tek and bulk Ammo.
