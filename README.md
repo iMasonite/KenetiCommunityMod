@@ -12,6 +12,7 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
 - **KC Tek Trough** More slots, bigger range.
 - **KC Dedicated Storage:** Can store spoiling items.
 - **KC Tree Tap:** Can store more sap and produces sap faster.
+- **KC Tek Forcefield:** Can use Tek Generator, also uses less element.
 
 ### Custom Structures:
 - **Czech Hedgehog & Razor Wire** Base defence structure.
@@ -53,7 +54,9 @@ This mod brings features from the mod named Keneti Addon Features on the ASE ste
 - **Crafting Roids** *(Portable Catalyzer)* Temporarily max out your crafting skill according to your level.
 
 ### Other Features:
-Artifacts can be crafted in the **Tek Console**.
+ - Artifacts can be crafted in the **Tek Console**.
+ - **Tek Suit** protects against radiation using stored element percentage rather than durability.
+ - **Tek Suit, Hazard Suit & Gas Mask** forces protection against most poisonous and noxious gasses.
 
 ## This mod port is an ongoing effort.
 Some items or features may not make it it into the final mod, but efforts will be made to bring over the good stuff that people loved so much. I'm also still learning all the new bells and whistles that have been given to mod developers in the new UE5 version of the Ark Development Kit. Stay Tuned.
